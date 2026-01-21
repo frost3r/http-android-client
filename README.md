@@ -1,6 +1,6 @@
 # Simple HTTP Android Client
 
-This project shows how an Android app communicates with a custom HTTP server written in C.
+This project I made an  Android app communicates with a custom HTTP server written in C by me.
 
 ## What it does
 - A C server runs on `localhost:8080`
@@ -23,3 +23,6 @@ This project shows how an Android app communicates with a custom HTTP server wri
 1. Start the C server:
    ```bash
    ./src/server
+   
+
+Thank you.....
