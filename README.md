@@ -19,6 +19,8 @@ This project I made an  Android app communicates with a custom HTTP server writt
 - Runs on Android Emulator
 - Connects to host machine using `10.0.2.2`
 
+Thank you...
+
 ## How to run
 1. Start the C server:
    ```bash
@@ -30,4 +32,4 @@ This project I made an  Android app communicates with a custom HTTP server writt
 4. It will show {status:"ok"}
    
 
-Thank you.....
+
