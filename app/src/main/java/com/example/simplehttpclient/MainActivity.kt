@@ -39,6 +39,10 @@ fun HealthScreen() {
             .padding(24.dp)
     ) {
 
+        Text(
+            text="Hi!! I made this android app and it uses my own C server."
+        )
+
         Button(onClick = {
 
             // Update UI immediately
