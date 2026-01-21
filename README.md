@@ -24,5 +24,10 @@ This project I made an  Android app communicates with a custom HTTP server writt
    ```bash
    ./src/server
    
+2. Then run the code on Android Studio on PIXEL 5(API 34)
+
+3. In the UI click button "check server health"
+4. It will show {status:"ok"}
+   
 
 Thank you.....
